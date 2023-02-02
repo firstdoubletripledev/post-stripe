@@ -4,7 +4,7 @@ import Shop from './Shop'
 
 const App = () => {
   return (
-    <StripeProvider apiKey="pk_test_2roASLi0URfyJJS6fhEyVLIf">
+    <StripeProvider apiKey="pk_test_51MX3W9Ld47ZBO7S2uO88500MOLuvL91GrUkYhS2kSX7P3wh1GeITK9WrkXfiToiHt9lO0YlP8ThxCZiFLZQ7VDdJ00w7QsLO1K">
       <Elements>
         <Shop/>
       </Elements>
